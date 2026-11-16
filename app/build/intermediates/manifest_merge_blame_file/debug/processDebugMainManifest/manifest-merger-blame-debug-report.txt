@@ -1,0 +1,51 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="vic.software.androidsquadron"
+4    android:versionCode="2"
+5    android:versionName="1.1-android16" >
+6
+7    <uses-sdk
+7-->INJECTED
+8        android:minSdkVersion="23"
+8-->INJECTED
+9        android:targetSdkVersion="36" />
+9-->INJECTED
+10
+11    <application
+11-->C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:2:5-9:19
+12        android:debuggable="true"
+13        android:extractNativeLibs="false"
+13-->INJECTED
+14        android:icon="@drawable/ic_launcher"
+14-->C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:2:18-54
+15        android:label="@string/app_name"
+15-->C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:2:55-87
+16        android:testOnly="true"
+17        android:theme="@style/AppTheme"
+17-->C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:2:88-119
+18        android:usesCleartextTraffic="false" >
+18-->C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:2:120-156
+19        <activity
+19-->C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:3:9-8:20
+20            android:name="vic.software.androidsquadron.AndroidSquadron"
+20-->C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:3:19-50
+21            android:exported="true"
+21-->C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:3:144-167
+22            android:label="@string/title_activity_android_squadron"
+22-->C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:3:51-106
+23            android:screenOrientation="portrait" >
+23-->C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:3:107-143
+24            <intent-filter>
+24-->C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:4:13-7:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:5:17-69
+25-->C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:5:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:6:17-77
+27-->C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:6:27-74
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>

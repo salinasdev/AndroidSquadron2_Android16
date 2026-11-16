@@ -1,0 +1,8 @@
+vic.software.androidsquadron.app-pngs-0 C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\build\generated\res\pngs\debug
+vic.software.androidsquadron.app-updated_navigation_xml-1 C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\build\generated\updated_navigation_xml\debug
+vic.software.androidsquadron.app-packageDebugResources-2 C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+vic.software.androidsquadron.app-packageDebugResources-3 C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+vic.software.androidsquadron.app-debug-4 C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\build\intermediates\merged_res\debug\mergeDebugResources
+vic.software.androidsquadron.app-debug-5 C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\debug\res
+vic.software.androidsquadron.app-main-6 C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\res
+gradleHome-0 C:\Users\e054633\.gradle
