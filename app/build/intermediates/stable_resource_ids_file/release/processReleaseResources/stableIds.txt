@@ -1,0 +1,10 @@
+vic.software.androidsquadron:style/AppTheme = 0x7f060000
+vic.software.androidsquadron:string/menu_settings = 0x7f050002
+vic.software.androidsquadron:string/hello_world = 0x7f050001
+vic.software.androidsquadron:string/app_name = 0x7f050000
+vic.software.androidsquadron:menu/main = 0x7f040000
+vic.software.androidsquadron:id/menu_settings = 0x7f020000
+vic.software.androidsquadron:drawable/ic_launcher = 0x7f010001
+vic.software.androidsquadron:layout/main = 0x7f030000
+vic.software.androidsquadron:string/title_activity_android_squadron = 0x7f050003
+vic.software.androidsquadron:drawable/ic_action_search = 0x7f010000

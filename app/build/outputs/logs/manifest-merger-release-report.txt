@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:1:1-10:12
+	package
+		INJECTED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:2:5-9:19
+INJECTED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:2:5-9:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml
+	android:label
+		ADDED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:2:55-87
+	android:icon
+		ADDED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:2:18-54
+	android:theme
+		ADDED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:2:88-119
+	android:usesCleartextTraffic
+		ADDED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:2:120-156
+activity#vic.software.androidsquadron.AndroidSquadron
+ADDED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:3:9-8:20
+	android:screenOrientation
+		ADDED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:3:107-143
+	android:label
+		ADDED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:3:51-106
+	android:exported
+		ADDED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:3:144-167
+	android:name
+		ADDED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:3:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:4:13-7:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:5:17-69
+	android:name
+		ADDED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:5:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:6:17-77
+	android:name
+		ADDED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml:6:27-74
+uses-sdk
+INJECTED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\e054633\Desktop\XE42852\repos\AndroidSquadron2-master\app\src\main\AndroidManifest.xml

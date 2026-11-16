@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="vic.software.androidsquadron"
+    android:versionCode="2"
+    android:versionName="1.1-android16" >
+
+    <uses-sdk
+        android:minSdkVersion="23"
+        android:targetSdkVersion="36" />
+
+    <application
+        android:extractNativeLibs="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="false" >
+        <activity
+            android:name="vic.software.androidsquadron.AndroidSquadron"
+            android:exported="true"
+            android:label="@string/title_activity_android_squadron"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
